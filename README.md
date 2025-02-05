@@ -11,7 +11,6 @@ This project showcases the complete design of a landing page created using Figma
 - Usage
 - File Structure
 - Screenshots
-- Contributing
 
 ## Features
 
@@ -57,7 +56,3 @@ This project showcases the complete design of a landing page created using Figma
 ## Screenshots
 
 ![Project Screenshot](Website.png)
-
-## Contributing
-
-If you would like to contribute to this project, please fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
